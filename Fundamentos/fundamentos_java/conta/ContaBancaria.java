@@ -20,7 +20,7 @@ public class ContaBancaria {
   }
 
   public String getNumero() {
-    // como a função não recebe benum parãmetro não é necessário o this.
+    // como a função não recebe nenhum parãmetro não é necessário o this.
     return this.numero;
   }
 
