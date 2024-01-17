@@ -18,7 +18,7 @@ public class TesteDePessoa {
     professor.setIdade(25);
     professor.setSalario(5000);
 
-    System.out.println(professor.imprimirDadosdaPessoa(1));
+    System.out.println(professor.imprimirDadosdaPessoa());
 
     Aluno aluno = new Aluno();
     aluno.setCpf("5832211100");
@@ -26,7 +26,7 @@ public class TesteDePessoa {
     aluno.setIdade(18);
     aluno.setMatricula("12345");
 
-    System.out.println(aluno.imprimirDadosdaPessoa(1));
+    System.out.println(aluno.imprimirDadosdaPessoa());
   }
 
 
