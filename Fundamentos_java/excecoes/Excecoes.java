@@ -1,4 +1,4 @@
-package Fundamentos_java.excecoes;
+package excecoes;
 
 public class Excecoes {
   // lidar com erros

@@ -1,7 +1,6 @@
-package Fundamentos_java.veiculo;
+package veiculo;
 
-public class TesteDeVeiculo {
-  // não podemos instanciar uma interface
+public class TesteDeVeículo {
   public static void main(String[] args) {
     Veiculo carro = new Carro();
     Veiculo moto = new Moto();

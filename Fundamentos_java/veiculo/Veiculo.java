@@ -1,4 +1,4 @@
-package Fundamentos_java.veiculo;
+package veiculo;
 
 public interface Veiculo {
   

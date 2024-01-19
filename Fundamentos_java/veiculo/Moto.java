@@ -1,4 +1,4 @@
-package Fundamentos_java.veiculo;
+package veiculo;
 
 public class Moto implements Veiculo {
 
