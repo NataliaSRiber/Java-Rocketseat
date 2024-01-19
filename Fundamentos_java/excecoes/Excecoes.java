@@ -3,9 +3,9 @@ package excecoes;
 public class Excecoes {
   // lidar com erros
 
-  // checked exceptions - nós conseguimos prever e  tratar
+  // checked exceptions - nós conseguimos prever e  tratar (maioria das vezes extends de Exception que extends uma throwable)
 
-  // unchecked exceptions - excessões nas quais não temos controle
+  // unchecked exceptions - excessões nas quais não temos controle (RuntimeExceptions)
 
   public static void main(String[] args) throws Exception {
     // validarNumero();
