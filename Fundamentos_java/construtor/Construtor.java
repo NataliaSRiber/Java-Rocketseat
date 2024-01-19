@@ -3,8 +3,8 @@ package construtor;
 public class Construtor {
   private int numero;
 
-  // o construtor necessiat ter o mesmo nome da classe
-  public Construtor(int numero) {
+  // o construtor necessita ter o mesmo nome da classe
+  public Construtor(int numero, String text) {
     this.numero = numero;
   }
 
